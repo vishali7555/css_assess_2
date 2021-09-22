@@ -1,0 +1,142 @@
+
+
+
+.block
+{
+border-radius: 10px;
+margin: 30px;
+border: 10px solid cornsilk;
+background :chocolate;
+width="50px" ;height="50px";
+color:solid black;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+display: inline-block;
+text-align: center;
+padding: 30px;
+}
+
+.parent
+{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+
+}
+
+body
+{
+    background-repeat: no-repeat;
+    background-image: url("rest.jpg");
+    background-size: cover;
+    border: 10px black;
+    border-style: double ;
+}
+
+
+
+.coupon {
+            height: 400px;
+            width: 400px;
+            display: table-cell;
+            text-align: center;
+            vertical-align: middle;
+            border-radius: 50%;
+            background: url(rest.jpg);
+            border: 10px solid brown;
+            color: white;
+            font-size: larger;
+        
+}
+
+table
+{
+    padding: 80px;
+}
+          
+.menu_head
+{
+border-radius: 10px;
+margin: 200px;
+border: 10px solid cornsilk;
+background :chocolate;
+width="50px" ;height="50px";
+color:solid black;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+padding: 20px;
+}
+
+.register
+{
+margin: 150px;    
+border: 10px brown;
+border-style: dashed;
+width="100px" ;height="400px";
+background-image: url(circlebg.PNG);
+color: black;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+padding: 30px;
+display: inline-block;
+}
+
+.menupart1
+{
+    margin: 70px;
+    border: 10px solid burlywood;
+    background: url(rest.jpg);
+    height:300px;
+    width: 300px;
+    padding:10px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+}
+
+.menu1{
+    display: inline-block;
+}
+
+.menu2{
+    display: inline-block;
+}
+
+.menu3{
+    display: inline-block;
+}
+
+.menupart2
+{
+    margin: 70px;
+    border: 10px solid burlywood;
+    background: url(rest.jpg);
+    height:300px;
+    width: 300px;
+    padding:10px;
+    color: cornsilk;
+    text-align: center;
+    font-size: larger;
+}
+
+.menu4{
+    display: inline-block;
+}
+
+.menu5{
+    display: inline-block;
+}
+
+.menu6{
+    display: inline-block;
+}
+
+li
+{
+    color: solid white;
+    font-weight: bolder;
+    font-size: larger;
+}
